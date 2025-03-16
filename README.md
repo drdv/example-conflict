@@ -6,6 +6,6 @@
 
 # Conflict
 
-+ Base version
++ Feature version
 + Some info
 + ...
