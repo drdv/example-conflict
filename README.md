@@ -3,3 +3,9 @@
 1. Clone the repository
 2. Switch to the `main` branch
 3. `git merge feature`
+
+# Conflict
+
++ Base version
++ Some info
++ ...
