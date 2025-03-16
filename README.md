@@ -8,6 +8,6 @@
 
 # Conflict
 
-+ This is the base version
++ This is the main version
 + Some info
 + ...
